@@ -1,3 +1,7 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Aby uruchomić projekt trzeba pobrać pliki z githuba, a następnie zainstalować npm.
+
+# Instalacja  
+  npm install
+  npm start
